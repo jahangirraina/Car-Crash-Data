@@ -6,13 +6,13 @@ Data is provided on crash frequencies among various randomly selected cohorts, a
 
 # Data Intro
 The following columns have crash frequencies:
-'Frontal Impact (per 100,000 vehicles)',
-'Rear Impact (per 100,000 vehicles)',
-'Front Offset Impact (per 100,000 vehicles)',
-'Side Impact (per 100,000 vehicles)'
+- 'Frontal Impact (per 100,000 vehicles)',
+- 'Rear Impact (per 100,000 vehicles)',
+- 'Front Offset Impact (per 100,000 vehicles)',
+- 'Side Impact (per 100,000 vehicles)'
 
 The following columns have data on risk variables:
-'Average EuroNCAP Lane Deviation Score',
-'Driver Claim History Rating',
-'No Year no claims',
-'Gender'
+- 'Average EuroNCAP Lane Deviation Score',
+- 'Driver Claim History Rating',
+- 'No Year no claims',
+- 'Gender'
